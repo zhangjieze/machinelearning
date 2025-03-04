@@ -1,0 +1,4 @@
+Training set: Data used to train the model 
+x = input variable
+y = output variable
+(x , y) single training example
